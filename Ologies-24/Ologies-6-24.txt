@@ -1,0 +1,1107 @@
+Oh hey, it’s your friend with too much stuff hanging from his rear-view mirror, Alie Ward. Let’s get
+started, let’s dip into it. This one is about the Sun; we’ve got eclipse trivia and tips and dates tossed
+in. It’s also a BOGO, it’s a buy-one-get-one, because we have two guests, thank you NASA for both of
+them, and thank you to Wildlife Ecology ologist Corina Newsome for the intro to India.
+So, I’m going to be honest, we weren’t even going to cover this ology right now, if we did, we should
+have put it out a couple of weeks ago. I’ve always wanted to cover it but kind of at the last minute, I
+decided to trek to see the eclipse in Texas, and I selfishly, selfishly wanted to know how the Sun
+works because everyone is talking about it and because everything alive on Earth would be dead
+without it, it’s a key player. I was like, let’s get this done.
+So, these two guests, one is a research scientist in the Heliophysics Science Division at NASA’s
+Goddard Space Flight Center. The other has a bachelor’s and a master’s in mathematics and is on
+the cusp, cusp of totality in regards to her PhD in Astrophysics from Georgia State University. She’s
+self-taught in ten computer programming languages, she studies solar energetic particles, coronal
+mass ejections, and has had multiple internships with NASA’s HelioAnalytics Department at NASA
+Goddard. These are the folks you want to talk to about the Sun, and we will in a sec.
+But first, thank you to all of our Patrons at Patreon.com/ologies who, for one dollar a month, can
+submit questions before I record. Thank you to everyone wearing Ologies Merch from
+OlogiesMerch.com. And for zero dollars than you for supporting Ologies just by leaving reviews and
+you know I read them all. To prove that, thank you to VeryFarFromTheMaddingCrowd who said:
+Ologies is like a cuddle from a friend, a hug from the universe, and a tickle fight for my brain.
+VeryFarFromTheMaddingCrowd said they put off writing that review for the last five years, so
+thank you, it was worth the wait. If you’ve left a review, I’ve read it.
+Now, heliology. Helio straight up means ‘sun’ in Greek, but the word ‘eclipse,’ I just found this out,
+comes from the Latin for a ‘failure to appear,’ which sounds kind of like the Sun is in some hot water
+with the judicial system. But in this episode, we’re going to shed light on what the Sun is made of, is
+it fire or not? How old it is? How big is it? What does the surface of the Sun look like? When will it
+implode on us? What rays are coming off of it? What is a sunspot, a solar storm, an eclipse, an
+ejection of coronal mass? Are our electronics safe? Also, where can an eclipse happen? Should you
+go see one? Is it that big of a deal? What happens if you step out and stare directly into the Sun? So,
+get to know the center of our Solar System with heliologist Dr. Michael Kirk, and almost almost, just
+days away from defending so I’m declaring it here, Dr. India Jackson.
+----------
+Aside: Let’s hop right in and meet Michael.
+Michael: My name is Michael Kirk; my pronouns are he/him/his.
+Alie: And now, we were talking about onomies versus ologies. You study the Sun so technically, you are
+a heliologist. Has anyone ever called you that, or no?
+Michael: No, you’re the first person to ever call me a heliologist. We typically call ourselves heliophysicists
+or solar scientists or something like that but heliologist, no. Never heard that one before. Thanks.
+Heliophysics is actually a relatively new term. It was coined back in the late-‘90s, mid-‘90s so in 
+2
+terms of you know, the way science goes, this is still a very youthful idea of heliophysics. What it
+used to be is solar science, studying the Sun, and then you study space, and then you study the
+Earth’s upper atmosphere, and they were quickly realizing they’re all related with each other,
+they’re all part of what we call the heliosphere. So, that’s where heliophysics came from. Even the
+word ‘heliophysics’ is not very well known in scientific communities, let alone the general public
+but we’re sort of on a mission that you know, 5-year-olds know ‘Tyrannosaurus rex,’ that’s a hard
+word. [Alie laughs] So, we should know ‘heliophysics’ as well.
+Alie: I had no idea that it was a newer term, this is exciting. [“We’re about to launch it.”] What exactly is a
+heliosphere? I don’t think I’ve ever heard that term before.
+Michael: Yeah, so heliosphere is everything the Sun touches, that’s the easiest way to describe it. The Sun, of
+course, is the source of all our light and heat on Earth but it also is pushing out radiation particles.
+There is a reasonably well-defined boundary where the influence of the Sun pushes out into
+interstellar space and at some point, the other stars in our galaxy are pushing back so there’s a
+boundary that the Sun’s radiation influence in a bubble, and that’s called the heliosphere. So, all the
+planets are inside the heliosphere. The only things that we know of that are outside the
+heliosphere right now are the Voyager spacecraft, [Alie gasps] they actually crossed the boundary
+and are now in interstellar space.
+Aside: So, just a quick aside, the Voyager 1 and Voyager 2 space probe crafts, they were launched
+in the late summer of 1977, they have both crossed interstellar space beyond our Sun’s
+heliosphere in 2012 and 2018 respectively. Voyager 1 is about 24 billion kilometers, or 15 billion
+miles away. And Voyager 2, after cruising past the gas planets of our Solar System, is now roughly
+20 billion kilometers or 12 billion miles from Earth. Meanwhile, I can't make it past an eight-hour
+road trip without stopping five times to pee and three times to purchase truck-stop coffee. Also,
+Michael says that they are having a few communication issues with the Voyagers, but I’m sorry,
+they are communicating from several billion miles away. Give them grace for not returning your
+text, NASA. Calm down.
+So, these Voyagers, they’re voyaging away tens of billions of miles, and just for scale, distance wise,
+the Sun is just a mere 93-ish million miles or 150 million kilometers away. That’s right in our
+galactic backyard.
+Alie: And now, if we can see stars distantly, we’re not in their heliosphere though, right? We can just see
+pinpoints of light. How can you determine if you can still see something?
+Michael: Oh! Ho-ho! Wow, if you can see something. Well, so sunlight like all light falls off exponentially. So,
+every two meters you move out from an object, the light falls off to four times the amount. So, it’s
+exponentially decreasing. So, as you move away from the Sun, its brightness is limited and
+eventually, you need bigger and bigger telescopes or bigger and bigger apertures to be able to see
+that increasingly faint starlight. That’s why NASA launched James Webb, to create a really big
+mirror in space to capture really dim objects.
+So, in terms of the Sun’s influence, the radiation pushing out from the Sun, there’s light that’s going
+to go off into space, pretty much forever. But there is a defined boundary of that solar wind flow
+that flows out from the Sun and provides a fluid pressure, like a pressure of, you put your hand in
+front of a water spigot and you feel the water pressure. It’s a whole lot less from the Sun but there’s
+a pressure pushing out. So, that’s what we define as the edge of the Sun’s influence. So, each star
+has this bubble around it of where it is completely dominant, it’s pushing out all the other stuff
+from the universe and in defining this protective or captive bubble around it. And then depending 
+3
+on how big the star is, how bright it is, how active it is, the size of those bubbles changes the
+heliosphere itself.
+Alie: And so, that solar wind is just a term for how it’s putting pressure on other things? Are you ever
+mad that it’s called wind? Is that so confusing?
+Michael: No, actually it’s a great term because solar wind gets you to think of it a little bit as weather too. So,
+there’s space weather as well. And the solar wind is sort of the... It’s always there, wind blowing
+out from the Sun. By wind, I mean these are particles magnetic fields, so protons, neutrons,
+electrons, magnetic fields, always being pushed out from the Sun all the time. This wind is carried
+out in streams and in clumps and in blobs and it is pushed out but calling it wind makes you think
+like, “Oh, that must be some sort of weather phenomenon,” and that’s exactly why it’s a really good
+term because space weather is the changing environment in space caused by the Sun. So,
+astronauts deal with it, satellites deal with it, planets deal with it too, and our Earth and upper
+atmosphere changes depending on the space weather conditions.
+Alie: Oh! Okay. I thought you were going to be like, "Yeah, it sucks they call it wind. I gotta really try and
+explain that when it’s Career Day.” [laughs]
+Michael: Yeah, there are other terms I think are terrible that’s not one of them.
+Alie: [laughs] What else is terrible? Can you spill any beans?
+Michael: [laughs] I think the hardest thing is that we use the term ‘Solar System’ to talk about the planets.
+Okay, so you have the planets in the Solar System, and everybody learns the Solar System and you
+learn the names of the planets. But the Solar System, if you think about the words, it’s about the
+Sun and the relationship between the Sun and the planets. So, I think the term Solar System is
+great, I just wish we could include a little bit more sun in that Solar System description instead of
+just talking about Saturn and Uranus and Neptune.
+Alie: That’s such a good point. It is called the Solar System and I feel like I know the least about the Sun.
+And this is a great time to help me actually visualize it. So, the Sun, is it a huge ball of fire? Is it
+plasma? Is it just light? What is the Sun even made of? Do we know?
+Michael: Yes.
+Alie: Okay.
+Michael: Okay. Oh, next question? Oh no, umm... [Alie laughs] [record scratch]
+Aside: He’s kidding but also not. Let’s check with another NASA Goddard scientist, India Jackson,
+almost PhD.
+India: Okay, my name is India Jackson, my pronouns are she/her.
+Alie: So, let’s say that you had to describe what the Sun was or how big it is, I have no concept of how big
+the Sun is, like, none. Are there just arms of plasma that are giant coming off of it? Like, I can't even
+visualize it.
+India: [laughs] Well, you know the Solar Dynamics Observatory, have you heard of that?
+Alie: Mm-mm, no.
+India: You can see daily, live images of the Sun. It looks like a ball because the gravity is pushing toward
+the center, that’s why it looks like a ball. And then you will get some solar events, you’ll see, it looks
+like stuff is crawling on it. Those magnetic waves pushing through then some of them connect then
+they’ll snap. You’ll see dark spots, those are sunspots, you’ll see some prominences, you’ll see some
+filaments. The big loops are the coronal mass ejections.
+4
+Alie: What does that look– A big loop? Like a bubble?
+India: Yeah.
+Alie: [softly] Whaaat?
+India: Like a big loop. And I actually studied those last year during my summer internship with NASA,
+trying to get those physical parameters from coronal mass ejections during certain events. So,
+trying to get how long it is from the center of the Sun, the angular width, and all that good stuff.
+Aside: So, a coronal mass ejection, also called a CME, this is a type of solar event. What happens is
+magnetic fields kind of twist around each other and snap and the Sun expels a bunch of plasma and
+magnetic field from its surface, which can travel to Earth in big bursts. Though with a CME, it might
+take a few days for that coronal mass ejection to arrive.
+Now, solar flares, those are quicker, and the most powerful explosions in the Solar System and they
+emit light and particles and electromagnetic radiation that can reach the Earth, and your face, and
+your laptop in eight minutes. CMEs, those can affect life on Earth as well, including our electronics,
+but we have more time to see them coming, they move more slowly.
+Now, speaking of preparation, India is literally a week or two away from defending her PhD, this is
+a huge deal. She told me a little about her dissertation.
+Alie: Are you this close to being a doctor or are you a doctor? I know that we were catching you right in
+the middle of defending. [laughs]
+India: Well, I haven’t defended yet. I just got the final edits for the full dissertation, 138 pages. So, that will
+be going out to all of my committee members on Monday. So, I am this close actually. [laughs]
+Alie: That’s so exciting! What’s the title of your dissertation?
+India: “Advancing solar energetic particle prediction using survival analysis and cloud computing.”
+Alie: [whispers] Oh my god.
+India: And I'll be the first Black woman to get a PhD in physics from GSU. [DJ airhorn]
+Alie: That’s amazing.
+India: So, I'm making history with that. My dissertation is three parts. First part is using pure statistics in
+order to analyze the time to detection of solar energetic particles once it reaches one of our
+satellites. And then the second part is using machine learning and then the third part is the cloud
+analysis environment that I created using Amazon Web Services. It’s free, it’s open source.
+Aside: So, this is what India’s dissertation is composed of, but looking upwards again...
+Michael: What’s the Sun made of? So, I think it was the musical group, They Might Be Giants called the Sun a
+“miasma of plasma,” [clip of “Why Does the Sun Really Shine?” by They Might Be Giants. “Electrons
+are free (Plasma) Fourth state of matter, not gas, not liquid, not solid.”] And that’s really what it is.
+it’s a plasma. So, the Sun is a big ball of hydrogen and helium primarily. There’s a few other things
+in there that astronomers just all lump into metals, that’s a weird thing that astronomers do. But
+it’s primarily hydrogen and helium and the hydrogen goes through a fusion process in the Sun’s
+core to produce energy and that’s the source of all the energy coming from the Sun is this fusion
+process.
+Aside: Fusion, sidenote, occurs in the Sun when the protons of hydrogen atoms smash and fuse
+together to make a helium. They also release a ton of energy in that fusion process. It takes four 
+5
+hydrogens colliding to make a helium. So, helios, helium, helios, Sun! Do you get it? I didn't, right
+before now. Someone, please tell me I’m not alone because this hurts.
+Michael: So, you have these positive energy blobs and these negative energy particles, and they are in this
+incredibly energetic soup where they’re all flowing around. And when you have negative and
+positive energies that are separated from each other like that, you can produce magnetic fields.
+That is the other major thing that drives the Sun, these currents of plasma causing magnetic fields
+and that’s really what makes the Sun; it’s plasma, it’s magnetic fields. Understanding how those
+two things interact with each other is complicated and we understand it to a certain degree but
+man, there’s a ton of stuff we just don’t understand about that, how the plasma and magnetic fields
+interact even though the ingredients are relatively simple.
+Aside: So, according to a NASA piece titled, "Understanding the Magnetic Sun,” the surface of our
+solar body, "writhes and dances” and it has more rhythm and confidence than you, Alie. Not the
+last part, that’s just an assumption. Now, this is because when charged particles in the Sun bang
+and move around, they also create magnetic fields which just causes them to move more just like a
+mosh pit of elegant stellar plasma.
+Alie: And when we hear always that we are made of exploded star stuff, but if it’s mostly helium and
+hydrogen with some metals, do those particles change when they leave that sphere or do those
+become subatomic? I realize these are very perhaps not-smart questions, [Michael laughs] but I
+might not be the only one wondering so, you never know.
+Michael: Oh no, these are great questions. So, when Carl Sagan was saying we are all stardust, that’s literally
+true. However, there was a little, little piece in there that you referred to which is exploded
+stardust and that is actually how you get the metals and the heavier elements out of a star, you
+have to go through a supernova.
+Aside: Okay, heads up, a supernova is a giant explosion of a star, huge, huge, huge, that’s a
+supernova. A nova is this transient brightening of a white dwarf star, we’ll get to what that is in a
+minute, and it’s burning off accumulated fuel. So, novas, that comes from the word ‘new’ because
+it’s this “pow!” sudden brightening. However, I prefer this now-antiquated Chinese term for novas
+which is guest stars. Like “Oooh, Solar System guest star. I love this nova. Exciting.”
+Michael: or nova in general, it doesn’t have to be super, it can just be a regular one. [Alie chuckles] So, in that
+process of a star going through its energetic life cycle and collapsing in on itself and either blasting
+out violently or just burping off its outer atmosphere, that’s how you get all those heavier elements
+deeper into the Solar System, it is that process, that process of the collapsing star, the process of
+the dying star that produces those heavier elements. You need those violent reactions to get iron,
+to get uranium, to get calcium, to get oxygen. That’s how. You have to go through that cycle. So, the
+original stars are conceived to be almost purely hydrogen and they had to go through a burn cycle
+to produce these heavier elements and get them out into the universe.
+Aside: So, the Sun has to go through some really intense shit to make heavy stuff, just like any true
+artist.
+India: As far as how compact it is, we really don’t know. We have different types of stars, we have white
+dwarfs, black holes are stars that have collapsed on themselves. So, even black holes were stars,
+right? And their mass shrinks, shrinks, shrinks, shrinks, shrinks, and then it’ll explode. Our star is a
+G-star and it’s right there in like, midlife. So, you have the early ones and then you have midlife and
+then you have the red giants and then you have the white dwarves. Our sun is just, you know, if it
+was based on human expectancy, you know like 35 or something, 36, [Alie laughs] 40 something.
+Right around that age, you know?
+6
+Alie: What are those types of stars because I’m unfamiliar. You mentioned all the way up to like a red
+dwarf? Can you go up the line? Because I just don’t know any of that.
+India: So, basically, it’s the evolution of a star. Starts really hot then the outer edges start to cool off and
+then you start to go down into what we have, which is, I think we’re 15 million kelvin, and then it
+starts to cool over time, but the mass is starting to crash in on itself at the same time. And then we
+move on to the red giants. Have you ever read The Time Machine?
+Alie: No, I haven’t.
+India: You never read the book The Time Machine?
+Alie: No! Is it good sci-fi?
+India: Oh! You’ve got to. It is the best sci-fi. Yes, you have to read it. It’s not that long either, I think it’s like,
+at the most 70 pages.
+Alie: Augh! I’ll put it on my list.
+Aside: So yes, let’s get that on my reading list. And if you’re like H.G. who? So, Herbert George
+Wells wrote more than 50 novels and is considered the father of sci-fi. Also, people called him
+Bertie and he married his cousin, then they divorced, and he married some other lady and then he
+had like one million affairs on her, not that it’s any of our business. But The Time Machine novella
+put time travel in everyone’s hearts and minds and also, Bertie coined the term ‘time travel.’ So,
+one day, maybe we’ll all be time tourists, just walking around stinky old castles, or poking at
+dinosaur poo and taking influencer photos in fits that are made from mammoth. We can only hope.
+Either way, quick run-down of stars, in case this makes you better at Jeopardy, I didn’t know any of
+this. Let’s run it down. So, our Sun is a main sequence star, which means we started as a clot of
+gasses and dust, and then it gathered more matter and started spinning and spinning and getting
+hotter until fusion happened, and hydrogens became heliums. Now, main sequence stars make up
+9/10ths of the stars in the universe. Our Sun technically is a G-type main sequence star, and the G
+is its spectral rating. So, you can be an O, a B, an A, an F, a G, a K, you can be an M star. Os are the
+hottest and brightest, and M is on the cooler and dimmer end. So, we’re like a G, right, we’re in
+there.
+Now, what is a red giant star? This is a main sequence star that has begun to collapse, but the
+helium fuses into carbon, and then that extra energy causes them to puff up until they dissipate,
+and they become a nebula, which is like a cloudy space ghost made of dust and gas. Our star will
+eventually become a red giant. But before that, a blown-away red giant’s core is hanging out, and
+that’s called a white dwarf star, and that gets cooler and cooler and cooler and cooler.
+Now, a neutron star is super dense. It has an incredibly dense core, and that’s what is left after a
+supernova, after a star’s hydrogen core kind of runs out so it starts fusing heavier atoms, like
+carbon and neon, and silicon and iron. Neutron stars, again, very dense. Now, if that neutron star
+spins really fast, you’ve got a pulsar. Apparently, some of these spin faster than blender blades. So,
+get your little fingies out of a neutron star, for so many reasons.
+Now, red dwarf stars, not red giant stars, red dwarves, those are smaller main sequence stars, and
+when they release energy, it cools down and then it settles back to the surface, so it can recycle and
+keep mixing like a cement truck, all the while remaining smaller and cooler and existing potentially
+up to 14 trillion years. Red dwarf stars are like these modest stars, they live within their atomic
+means, they just poke along doing life under the radar, like a turtle minding its business. Now,
+brown dwarf stars, ha! Those aren’t even actually stars. They are bigger than our Solar System’s
+planets, but at their core, they’re not massive enough to do all that fusion and they barely emit 
+7
+light, no offense. And that’s fine. Now, sometimes people refer to our sun as a yellow dwarf, but you
+should ignore those people because they are wrong people.
+So, let’s get back to our sun. Is it mad? Is it stable?
+Alie: How close is it to just exploding and then everyone is dead?
+Michael: We have a bit of time. We’re about middle-aged so the Sun is about 4.5 billion years old, and the
+Sun will live to be about 9-ish billion years. So, we are about halfway through. As the Sun ages its
+diameter will change, it will puff up its outer atmosphere a bit. So, fortunately, we’ll be long gone
+by then. I certainly don’t expect to be around in a billion years. [“Me neither.”] [Alie laughs] But the
+outer atmosphere of the Sun will eventually encompass the orbits of Mercury and Venus and Earth
+and probably out to Mars.
+Alie: Wow.
+Michael: As it gets older as so many of us do, you get a little bit larger around the waist and the Sun is no
+different. [Alie laughs] The Sun will actually puff out and encompass those inner planets and those
+inner planets will fall into the Sun itself as it’s aging.
+Aside: That means we’ll get sucked in. So, if the notion of this is terrifying and exciting, please
+enjoy our recent episode with Dr. Robert Gamble on Black Hole Theory Cosmology, which covers
+such things like we don’t really fully know what is happening in the universe, or what will happen
+in the future, or what the point of life is, I guess, if you really zoom out. Are we divine
+consciousness embodied in wet little sacks of love or bugs that infested paradise? ... Don’t ask me!
+Alie: Do you ever have existential crises or are you over it?
+Michael: No. I mean, not about that but, you know... [chuckles] No, I mean, I think the thing that I really love
+about astronomy and thinking about the Sun, in so many different ways, is it’s all cyclical, it’s all
+cycles. Understanding that the cycles came before you to create you and then eventually those
+cycles will end, and the cycles will continue, and you won't be here, but the cycles will continue. It’s
+a little bit calming in a way, it’s not quite so terrifying as “You’re going to be wiped out tomorrow
+by an asteroid.” That might be more terrifying than the Sun’s eventual death.
+Aside: But first, let’s get some further humanoid background. How did these two big energetic
+powerful brains study such a big, powerful ball of energy?
+Alie: And what about your cycle to get to where you are? How did you end up a heliologist, AKA
+heliophysicist, [Michael chuckles] which, we’re blowing both terms up right now. How did you end
+up studying this?
+Michael: By accident? [laughs]
+Alie: Really?
+Michael: Yeah.
+Alie: Okay! Being a heliophysicist does not seem like something you can stumble into but do elaborate.
+Michael: Okay, yeah. I went to a small liberal arts college, Whitman College, out of high school and was very
+interested in astronomy; loved the idea of the universe and dark matter and all those fun, exciting
+topics. I was moving into the dorms my freshman year and I was assigned a roommate and his dad
+was a heliophysicist at Stanford. I remember meeting him and thinking “Man, your job sounds
+terribly boring.” [Alie laughs] So, that was my first interaction with heliophysics I thought, "Boy,
+this job sounds really boring.” 
+8
+So, went through my undergraduate degree and still loved astronomy and got a double degree in
+physics and astronomy then didn’t really know what I was doing with my life. I moved back home
+with my parents and worked as a caterer, [“Me too.”] I did landscaping. Yeah, just picking up odd
+jobs and after about six months of that I realized that A, I wasn’t entirely happy with this life living
+at home with my parents, it’s not what I aspired to and B, I felt like I was wasting this four-year
+degree I just got, like, what am I doing with my life? So, that was a little existential crisis, speaking
+of crises.
+But at the same time, I was blasting out my resume to anybody in my network that I could think of
+and was getting nowhere. I even remember cold-calling John Mather who was the recent Nobel
+Prize winner at Goddard Space Flight Center [Alie chuckles] just because I wanted to... Here’s where
+I want to be so maybe if I call him, he’ll have some advice and he was really nice I have to say.
+Alie: Oh my gosh!
+Michael: That was amazing. Other scientists I cold-called were not so nice, but he was fantastic. [Alie laughs]
+Again, didn’t actually give me any specific directions. So, I decided to take a road trip across the
+country and was like “Well, I’m not really doing anything, I’ll visit some friends, I’m just sort of
+frustrated.”
+Alie: Oh man!
+Michael: I was in Tennessee, and I got a phone call and somebody from “Goddard Space Center had my
+resume, would I be interested in an interview?” Like, [laughs] “Yes. I can be there in six and a half
+hours. [both laugh] Yes. I don’t care what it is.” So, I came in and interviewed to work with Dean
+Pesnell who is the project scientist for the Solar Dynamics Observatory Mission, and he offered me
+a job doing some scientific programming, doing a little bit of science, and I just leaped at the
+opportunity. So, not five years after meeting my roommate’s dad, who I thought his job was
+terribly boring, here I am working at NASA Goddard as a contractor doing heliophysics.
+Alie: I have a feeling it is not boring. Especially not now when we’ve got an eclipse coming up in a couple
+of weeks.
+Michael: This is probably the only time that everybody really is interested in heliophysicists. [Alie laughs]
+Otherwise we sort of fly under the radar so yeah.
+Alie: I think that everyone just doesn’t understand that the Sun is to be understood. It’s also solar flares.
+When there’s a solar flare that’s going to kick your network off, everyone is cold-calling
+heliophysicists being like, "What do I do? What’s going on?” [Michael laughs] But that’s amazing
+that you ended up there and also that you had the gumption to call around and say “Hey, anyone
+got any advice?” That you could just call a Nobel Prize laureate and be like, "Hey! Extension 425,
+what’s up?”
+Michael: So, I mean, I have to say that sometimes being naïve actually is a good thing because looking back
+at it now I’m like, “Wow, that was really ballsy of me.” [Alie laughs] I didn’t really think anything of
+it I was just like, "Well, I don’t know what else to do, here’s a cool guy that I would love to talk to.”
+So, sometimes just being naïve and taking a risk, it pays off.
+Aside: I asked India about her background and how she became this rising star in heliology.
+Alie: Did you always know that you wanted to go into something astronomical? Because I know that you
+have a focus in math, you have a very good math brain. So, when did you turn from math to the
+math of the cosmos?
+9
+India: Well, I always loved astronomy and physics and especially computer science as more of a hobby or
+something that I did on the side or something that I really loved. So, I would get astronomy
+magazines, Physics Today, those types of things and I really didn’t think that there was a direct
+avenue into physics and astronomy, academically.
+It wasn’t until I got in touch with my alma mater at the time, GSU, their astroinformatics group was
+looking for a statistician to try and help them predict solar flares. And I was like, “Hey, I’m a
+statistician, maybe I can help!” And then they were like, “Yeah, you sure can. Come on in.” So, I
+started working with them and helping them do research with NASA and then my advisor, who
+wasn’t my advisor at the time was like, "You know you can actually get a PhD in this. Things are
+becoming more interdisciplinary.” Because you know, you have this idea that things are math,
+physics, you know, this hardcore, but since computers started seeping into things, things started to
+become more interdisciplinary. And he was like, “You do know that with your math background,
+you can seamlessly go into damn near any branch of science that you want with that math
+foundation [Alie laughs] and we need you here so you should consider it.” I was like, "Well, damn.
+Okay. Yeah, let me try!” And then I was accepted to GSU to get a PhD in astronomy. I started in
+astronomy!
+Alie: Oh, okay!
+India: And I moved over to physics and that story shocks people [laughs] when I tell them that transition
+from astronomy over into physics.
+Aside: So yes, even heliologists may not have a clear eight-minute path from where they started to
+where they landed. Which means none of us have to fulfill that expectation. Get the haircut, shoot
+the shot, figure out what you like and you’re good at. No one’s watching but you. And you have a
+tiny slice of time in that body of yours under this Sun to make it fun and weird. Make it weirder.
+Alie: So many existential crises are being fixed right now. But all eyes are well, hopefully not directly on
+the Sun but are also on what you do. So, the eclipse is coming up, did you see the 2017 eclipse?
+Michael: I did. I saw it in central Oregon, I led an outreach group for NASA Science in Madras, Oregon, so a
+small town in central Oregon, got beautifully clear skies, fortunately. I scheduled it so I wasn’t
+actually working during the eclipse which was the best decision ever and was able to just be in a
+field with family and friends and watch the eclipse and it is absolutely stunning. There really are no
+words to fully describe it. Did you see the 2017 eclipse?
+Alie: You know what? I didn’t.
+Michael: [whispers] Oh no.
+Alie: And I had friends, a bunch of friends, scientist friends, whoms I love, all took a road trip and at the
+last minute I didn’t go because I was working on this podcast called Ologies [laughs] it was like, two
+weeks before we launched, and I missed it. So, it’s been my dream since 2017 to see it because my
+friends, even skeptic friends were like, "It was the most surreal feeling to watch.” One of them, my
+friend Dr. Cara Santa Maria was covering it for Nat Geo and she said she was live, covering it and
+started crying.
+[clip of Dr. Cara Santa Maria and astronaut Terry Virts’s live coverage of the 2017 eclipse]
+Cara: Fade, fade, fade. We’re here. Here come the Baily beads. [gasps] Now we can look at it.
+Oh my god. [quivering gasp]
+Terry: There it is, wow!
+Cara: [voice trembles] You can see the stars! 
+10
+Terry: You can see the planets.
+Cara: Oh my god. You guys, I’m actually crying this is the most incredible thing...
+Terry: Just incredible.
+Cara: ... I’ve ever seen in my entire life. [gasps]
+What is that experience like?
+Michael: It is, I mean, it is all of that in that seeing a total solar eclipse is, in terms of awe factors, people rank
+it just below seeing their child being born. So, it’s that level of deeply amazing and you don’t quite
+understand what’s happening, but it is really significant. If you saw a total solar eclipse, you’d
+remember it. It’s not something that you’re not quite sure if you saw it or not. You probably saw a
+partial eclipse and a partial is neat, an annular eclipse is pretty cool. A total solar eclipse is
+something you tell your grandchildren about. It is orders of magnitude scale different between the
+experiences. Personally, I would say it is the most amazing, awe-inspiring natural event you could
+witness. So, if you go to see the Grand Canyon or the redwood forests or any of those other
+spectacular, makes you feel small, amazing feelings, this one is two, three times better than that. I
+cannot overstate it.
+Aside: Okay, so more astounding than the Grand Canyon and maybe your offspring being born,
+depending on how honest you’re being, I don’t know, I don’t have kids. But I do have a picture of
+myself standing, giddy, at Arizona’s chasm in the Earth. I went alone, I had a stranger take my
+picture, I loved it. So, if you’re getting jazzed about even watching a live stream, let’s set you up
+with some lingo.
+Okay, so a partial eclipse. During this, the moon looks like it takes a bite out of the Sun, but it
+doesn’t cover it completely. An annular eclipse is not an annual eclipse, which is what I thought it
+meant at first. Rather, an annular eclipse is ring-like. So ‘annular’ shares an etymology with ‘anus’
+and an annular eclipse is when the Moon covers the Sun, but the Sun is larger in the sky than the
+Moon, so there’s a large ring around it. Now, a total eclipse is when the Moon obscures the full Sun,
+and we only see a little bit of the Sun’s corona, which is that roiling upper atmosphere of the Sun,
+and it looks like a glow around the silhouetted Moon.
+Now, Baily’s beads, mm! That sounds fun! They are. They are twinkly little spots around the
+corona, so as the Moon almost reaches totality. They’re these little twinkles, they’re caused by the
+rough, terrain of the Moon’s surface letting some extra chunks of sunlight shine in through those
+mountains. Now, the diamond ring, that’s a solitary Baily’s bead that shines like a diamond ring, of
+course, but is more expensive to behold, depending on hotel prices. But the diamond ring shows up
+right before totality.
+Now, the stages of a total or annular eclipse are stage one, when the Moon first starts obscuring the
+Sun with just a tiny bite. Stage two is when the Moon is just about eclipsing the whole ass Sun.
+Totality is when it’s at maximum coverage and then the third stage is as it’s leaving, the fourth is
+when there’s just a tiny bit of Moon over the Sun. Now, the umbra is the shadow you’re under
+during that total eclipse. But as you go out from that center point, the umbra, and you just see an
+eclipse as partial because of your angle relative to it, that’s called a penumbra, and it means ‘almost
+shadow.’
+Also, did you know that watching an eclipse can get you shadow band? Only in that, there are
+rippling lights that might shimmer up surfaces and on the ground between first and second
+contact, and after third contact. Those are called shadow bands, gotcha! They’re just called shadow
+bands. In terms of the other shadow bans, I don’t know why your algorithm hates you, that's a 
+11
+different episode. Actually, specifically, it’s TikTokology with Hank Green, which we did, and I'm
+going to link it in the show notes.
+So, eclipse-wise, those are things to look out for if you get yourself under the umbra of a total solar
+eclipse. Life-altering, I hear, mesmerizing, existence-affirming, something that you can experience
+for a few minutes that contextualizes the fragility of life in the expanse of the cosmos. And I’m so
+excited... I was just sitting here with so many questions, it really makes me wonder big questions
+like...
+Alie: How was traffic?
+Michael: It wasn’t... awful. [Alie laughs] No, it was okay. I didn’t have the worst time because I was
+anticipating terrible traffic, but it was pretty rough a lot of places.
+Alie: Because I missed it, I have had a dream to see it for the last seven years so just a few weeks ago, I
+decided to just bite the bullet and I’m going to Kerrville, Texas which is two hours outside Austin.
+Aside: Okay, what if I missed my flight? Am I sad and screwed for 1,000 years?
+Michael: So, in 2033, there is the next solar eclipse that will hit the US but that’s the north slope of Alaska so
+above the Arctic Circle. So, it would be a trip. Anywhere in the continental US is 2044 and that is
+going to hit just a small little bite of Montana and North Dakota. So again, pretty remote, you’d have
+to make a real dedicated trip to see it in the continental US. So yeah, it is going to be a while until
+we actually get a good chance in the continental US to see a total solar eclipse.
+Aside: Non-North Americans, I see you, we’re going to have more on global eclipses in a little bit.
+Hang tight. Also, I’m sorry for all the miles and the Fahrenheits too, it’s embarrassing.
+Alie: And now, an eclipse, you’ve got... The Moon comes in, blocks the Sun. What do you study also? Are
+you looking at the coronal ejections during an eclipse? How do heliophysicists approach this?
+Michael: So, eclipses, historically, have been life-altering in terms of being able to see one for scientists. I
+mean that not just it inspires a lot of awe, but it has historically been the source of confirming
+Einstein’s theory of relativity, discovering helium, those level of discoveries. Now, the science that
+we’re doing is much more focused on the Sun-Earth relationship, understanding the relationship
+between the Sun and how the Sun influences the Earth. So, the science that NASA is doing for the
+total solar eclipse both focuses on the corona and looking at flows and how material moves out
+from the Sun, how solar wind forms, all of those ideas of material moving off of the Sun.
+Aside: So, scientists will be looking at the Sun, through instruments. And they’ll also turn their
+literal focus to Earth and not the Sun, at the same time. Why point their gaze away from the Sun?
+Isn’t that like turning around backwards at a concert?? What are these NASA scientists? Killjoys?
+Knuckleheads? No.
+Michael: The other side of things is studying the ionosphere, the upper Earth’s atmosphere that is partially
+ionized by the Sun. So, the atoms in the upper Earth’s atmosphere get some electrons stripped off
+by solar radiation and form a partially ionized plasma that covers all the Earth. Did you know
+you’re living underneath a cloud of plasma?
+Alie: I did not.
+Michael: Now you do. [laughs]
+Alie: First news. No one told me. I wasn’t cc’d on that.
+Michael: Yeah, it’s not bad though.
+12
+Aside: And remember, plasma is made of hydrogen and helium ions in a goop alongside electrons.
+And as stated in the paper, “The Earth’s Ionosphere: A Wall-Less Plasma Laboratory,” the Earth’s
+ionosphere is plasma-esque at altitudes above 80 kilometers. So, above 80 kilometers, we have
+something plasma-like. And where are satellites in this mix? Uh, orbiting Earth at about 160 to
+2,000 kilometers high. So, at the shallow end of that ionosphere, plasma-like stuff that surrounds
+Earth.
+Also, weirdly, as I was working on this episode last night, I looked up and from my porch, at sunset,
+I saw this huge, glowing, silver streak and I realized I was watching a Falcon 9 rocket launch, just
+cruising up like a badminton birdie as casual as a lost balloon and it was carrying 22 Starlink
+satellites. If you want to hear more on that, you can enjoy our Space Archaeology episode on the
+space junk and garbage that orbits us with Dr. Alice Gorman, which is linked in the show notes. But
+yes, how are satellites affected by solar shenanigans?
+Michael: I mean, if you’re a satellite, it can be concerning but if you’re not in orbit then it’s actually been
+here our entire life and our entire existence. The plasma can change depending on the amount of
+solar radiation hitting that ionosphere. So, when the Sun is covered for a brief second, all those
+processes that strip off electrons stop so there’s a recombination, the nature of the plasma change
+in the ionosphere.
+Aside: Okay, so plasma recombination, it’s a little bit like it sounds. The positive ions in plasma
+bump into an electron or negative ion and are like, “Heeey! Oh my god, how are you?” And then
+they head off in a sunset to make new neutral atoms. And yeah, that reverse ionization in the
+Earth’s ionosphere plasma can happen when the Sun is covered for a sec.
+Michael: And then the Sun pops back out again and you can watch how all the ions change and then get
+reionized again as the Sun comes back into view. So, it’s a really interesting natural experiment
+because you can watch all this happen in real-time and then watch how it changes and how it
+affects the rest of the atmosphere, how it moves out in waves across the atmosphere. So, there’s a
+number of science experiments probing the ionosphere trying to understand, what are the specific
+effects on the Sun and how do small changes in the Sun affect changes in our own atmosphere?
+Alie: And will heliophysicists be hunkered down looking through instruments and running code or do
+they set things up to observe, and then they all peace out and go to the path of totality and then
+meet back up on Wednesday or whatever to look at the data?
+Michael: Most people are the second type. A lot of our instrumentation are set to run automatically. We
+know where the Sun is in the sky, it’s big and it’s bright, it’s easy to find. So, a lot of the efforts are
+getting all of the experiments set up now. That being said, there are some real-time adjustments
+that are being made.
+Aside: Michael says some heliophysicists are launching a suborbital rocket mission to probe the
+Earth’s ionosphere in what’ll be a partial eclipse from their vantage point. Back down on Earth
+though…
+Michael: The majority of heliophysicists have their hotel booked three years ahead of time, [Alie laughs]
+know exactly where they’re going to be, they have their eclipse glasses and are just going to enjoy
+it.
+Alie: [laughs] What about you?
+Michael: I will be in Dallas, Texas. So, part of my role at NASA is to lead the Heliophysics Education
+Activation Team or NASA HEAT and our job is to get heliophysics out into formal and informal
+learning audiences. So, that’s classrooms, after-school clubs, talks, and societies. So, we are doing a 
+13
+big push in Dallas, and we’ll be at the Dallas Arboretum watching the eclipse and doing activities
+with kids and families.
+Alie: And how many seconds or minutes of totality will there be there? Can you explain a little bit about
+why there’s a path of totality and when it becomes partial versus total? [“Is it dark?”]
+Michael: Yeah, so in Dallas I think we’re getting just about four minutes of totality. The path of totality, it all
+comes down to the spherical geometry of the Sun-Earth-Moon relationship. It is literally just how
+things are positioned in the sky. So, the length of totality, how many minutes of totality you get are
+based on the distance from exactly where you are, exactly where the Moon is, and exactly where
+the Sun is, down to the inches or millimeter level. If you start walking perpendicular to the path, as
+you’re leaving the path, the amount of totality will start falling off quite quickly. So, by the time you
+reach the edge of the path of totality, the Sun is no longer completely blocked by the Moon from
+your perspective, and you get zero minutes of totality.
+Aside: For this April 8, 2024, North American one though...
+Michael: The path width is, I want to say, 120 miles wide. So, in 60 miles you go from that exact right place
+to see that alignment between the Sun, Moon, and Earth to give you four minutes where the Moon
+is completely blocking the Sun, and then 60 miles away, you are exactly in the wrong place or just
+missed that and you only see a partial eclipse. It’s a deep partial, like 99% coverage, but it’s still
+just a partial eclipse. So, it’s amazing to think, these are human-scale sizes; you can drive 60 miles
+in an afternoon, it’s easy to do. That is the major difference between a partial and total solar eclipse
+is that position. So, all of those relative positions and relative sizes of things in the sky all line up
+perfectly to be in that path of totality for that few fleeting minutes.
+Alie: Augh! I’m so excited. I definitely feel like I have made the right decision to haul myself to Texas for
+this. [laughs] I’ve been regretting it for seven years, but I feel like I’m due for another lifechanging... Every seven years.
+Michael: That sounds about right.
+Alie: I can a little life-changing as a treat. [Michael laughs] Can I ask you some questions that listeners
+have submitted?
+Michael: Absolutely.
+Aside: Okay, we got a lot of questions, we have two guests and a solar event on the horizon, so
+we’re going to get to those questions, including those audio questions you can submit if you’re in
+the Ologies Pals, Friends, or BFF tier. But before we do, let’s donate to a few relevant charities and
+one that I hear is doing amazing work is Astronomers Without Borders. April is Global Astronomy
+Month and Astronomers Without Borders does sidewalk astronomy, online observation events,
+AstroArts and Crafts, and sharing of observational equipment via Celestron and more. To learn
+more, you can go to AstronomersWithoutBorders.org.
+We’re also going to donate to a cause in India’s name, which is the Grady Memorial Hospital Health
+Foundation, which is based in Atlanta and whose mission is to work tirelessly to ensure that every
+individual in the metro Atlanta community is guaranteed access to world-class, compassionate
+health care, regardless of their ability to pay. They are Grady Memorial Hospital Health
+Foundation. So, those donations were made possible by sponsors of the show.
+[Ad Break]
+Okay, your questions. First one up is from [Australian accent] Down Under, from Daniel Martin:
+14
+“G’day Alie, Daniel here from Australia. I had a question about solar eclipses. Or is it eclips-eez
+[phonetic]? What is the plural of eclipse?”
+Michael: Hmm, I’ve heard both. I say eclipses but I’ve heard eclips-eez [ph] as well. I prefer to say eclipses
+but that might be an American English thing, so I don’t know.
+Alie: [laughs] Main question, Daniel says is:
+“Total solar eclipses seem to have been quite uncommon here in Australia, at least from my
+experience. Is that actually the case? Are there places in the world where total solar eclipses
+are more likely to occur? And if so, why?”
+Michael: Oh yeah, this is actually a really fun question. So, don't worry. Australia is going to get plenty of
+eclipses coming up here in the next decade. So yes, you've had not many, but I think in the 2030s,
+or maybe it's like 2029 through 2039, Australia's going to see something like three or four eclipses
+come and go across the continent.
+Alie: Really?
+Michael: So, Australia is a great place to be, coming up.
+Aside: Australia, I’ve never seen you in person but one day, I want to meet your wombats, I want
+to meet your kangaroos, I want to see your ologites. But you last saw an eclipse – hopefully safely,
+with glasses – on the day of our Lord 4/20 in 2023, like a year ago. But if you missed it, you can
+mark your calendar for July 22, 2028, put a note in your phone as Sydney is right in the path of
+totality. You’ve also got a few in the next decade, November 25, 2030, July 13, 2037, December 26,
+2038. Put them in your phone. But if you miss the 2038 one, you better be in good health because
+you’re going to be waiting another 30 years for someone in Australia. And as someone prone to
+putting things off, don’t pull a me.
+Alie: Get your tickets! [laughs] Book your flights.
+Michael: Book your flights now. Hotels, rental cars, just get it all done right now.
+Alie: [laughs] I cannot find a rental car in Austin, by the way. We were looking on Craigslist to maybe
+buy, like, a $2000 20-year-old car to use for the week and then just sell it before we go. We’re like,
+“Is that legal?” I don’t know. Yeah, rental cars, scarce in Austin. Now, what about other continents?
+Do heliophysicists, do they go around solar storm chasing or eclipse chasing like tornado experts?
+Michael: Yes. In a word, yes. I have a couple of good friends that will spend tens of thousands of dollars to
+see solar eclipses. This is their own personal money, own personal vacation time, they’re not
+funded to do a research project or anything like that, it’s just because they love them so much. So,
+going to see a total solar eclipse is totally about the journey as it is about seeing the eclipse itself.
+Aside: There’s a word for this and it’s umbraphile, meaning ‘someone who is drawn to the
+shadow.’ So, if you like eclipses, feel free to update that Hinge profile, nerds. Find each other.
+Michael: The next solar eclipse after this one is in Iceland and Spain, which I think sounds like a pretty cool
+journey. So, I hope to be in Spain in 2026.
+But more generally, eclipses happen in the northern hemisphere a little more frequently than in
+the southern hemisphere. This statistically bears out over 5,000 years if you look at 5,000 years of
+eclipses and put all the paths on a map and stack them on top of each other, NASA actually has a
+great visualization of this if you need a picture.
+Aside: I moseyed on over to the NASA site, “5,000 Years of Total Solar Eclipses” which featured a
+printable map, should you need it, with more eclipses represented in lighter, warmer colors, like a 
+15
+heat map. In the northern hemisphere, you are certainly favored to see them. The NASA site says,
+kind of jauntily:
+A total solar eclipse can happen absolutely anywhere on Earth. In fact, there isn’t a single
+pixel on the map that isn’t visited by at least one eclipse – not a single goose egg in any of the
+14.6 million points sampled by the map.
+That’s good odds over a long period of time.
+Michael: The reason for this is the seasons. In the northern hemisphere, the Sun appears slightly smaller in
+the sky during the summertime than the southern hemisphere summertime. So, when you have the
+sun appearing slightly smaller in the sky because we’re a little bit further away, it’s easier for the
+Moon to line up to block the entire disc of the Sun. That being said, on average, I think it’s 320 to
+360 years between any one location having eclipses. So, if you’re standing on the ground, on
+average, you can wait 360 years between seeing an eclipse. I think in the northern hemisphere it’s
+like 320 years, in the southern hemisphere it’s like, 410 years or something like that. So yeah, it is
+more than a human lifetime.
+Alie: Yeah. [chuckles] You gotta really take your vitamins, hydrate if you want to catch that, [Michael
+laughs] if you want to not travel. [“It’s been... 84 years.”]
+Aside: So, this next one was on the minds of patrons Olivia Lester, Caro Young, Rachel Yukimura,
+Amanda Lask, Bonnie M Rutherford, Sam Gilbert, Meagan Walker, Seán Thomas Kane, Tyra Pereira
+and first-time question-askers Dillon S, Claire Richie as well as Jen Baker who asked: Why/how do
+Sun farts (flares) affect us? And...
+“Hi, this is Debra from Placentia. Can you explain the relationship between solar flares and
+sunspots? Thanks!”
+India: That’s actually a good question. A sunspot... You can physically see a sunspot, it’s like a black hole
+on the Sun, it’s like an actual black hole. A solar flare, you can see in videos, it’s an actual goddamn
+flare. [“That’s pretty cool.”]
+Alie: Like, a flame kind of coming off of it?
+India: No, that’s a CME. Well, I’m not going to say first in sequence, we don’t know if it’s in sequence. We
+know that the probability of a sunspot, then a flare, then a CME being in sequence is pretty high, I’ll
+say that. But sunspot shows through the corona, it’s a cooler spot there. Flare, it’s the same spot
+but it’s flashing now. And then the CME, huge bubble coming out of it.
+Alie: And that’s a coronal mass ejection?
+India: Yes.
+Alie: And does the bubble like, pop and burp?
+India: Yes.
+Alie: What’s in that burp?
+India: [laughs] Well, it’s like a jump rope. It’s not an actual bubble, it’s like a jump rope, like a cord and
+then the cord will snap sometimes. Well, every time it will snap, it doesn’t stay there forever.
+Alie: Does it floop around like one of those gas station dancing socks?
+India: [laughs] Not from what I’ve seen. Not saying that it won't ever happen but not from what I’ve seen.
+From what I’ve seen, it’s like a loop and then the plasma starts to fall down from the loop and it’s 
+16
+pretty cool to see. We do believe that they are connected but we don’t have concrete proof that it’s
+in sequence: spot, flare, CME.
+Aside: Will these mess up your life or do you have to do that yourself?
+Alie: Jenn Squirrel Alvarez had a question about the Sun:
+“Hi, this is Jenn Squirrel Alvarez, I have a question about the Sun. What’s the deal with solar
+flares and why do they fuck up GPS and all of that stuff? And can I just blame all my problems
+on solar flares? I feel like I should be able to.”
+Michael: Yeah. So, a solar flare is an eruption on the Sun where you get twisted magnetic fields on the Sun to
+the point where they actually break and reconnect with each other. This is called magnetic
+reconnection, it’s incredibly energetic. Visually, you can think of it as like, if you take a rubber band
+and you twist it too much. I don’t know, I had one of those little airplanes growing up, it was a
+rubber band driven one, you wind the propeller and if you got a little too enthusiastic like I did
+many times, you wind it too many times and the rubber band would snap and then it would hurt
+your fingers and your little plane would be ruined. That is kind of equivalent to what happens on
+the Sun. You get magnetic fields twisting and swirling around each other and you get enough sheer,
+enough twisting in those magnetic fields where they will actually reconnect, they’ll break and
+release a bunch of energy. And the amount of energy... It’s something like a medium-sized solar
+flare releases more energy in a few seconds than all of humanity has ever used throughout...
+Alie: Nooo. [laugh of disbelief]
+Michael: Yeah. Everything from caveman fires all the way up to nuclear reactors, everything. [Alie gasps] It
+releases more energy in a few seconds than humanity has ever used.
+Alie: Wow.
+Michael: Very energetic.
+Aside: I checked into this and yeah, via NASA, the energy burped off from a solar flare can be 10
+million times greater than the energy released from a volcanic explosion. Is that not scary enough?
+Okay, NASA also whispered to me on one of its websites that the most powerful solar flares have
+the energy equivalent of a billion hydrogen bombs, enough energy to power the whole world for
+20,000 years. Solar panels, bring ‘em on. To the Sun though, a solar flare? Barely notices, it’s just a
+little blip. It's like telling someone who's the most gorgeous person you’ve ever seen that you like
+their kneecaps. They’re like, “Okay, thanks?” Solar flares, not that big a deal to the Sun.
+But it’s a good thing we have pocket computers and heliophysicists that have Excel sheets to keep
+an eye on this because back in 1859, there were two amateur astronomers who happened to notice
+what is thought to have been a massive coronal mass ejection, a CME, on the surface of the Sun.
+One of them was Richard Carrington, for whom the great solar storm known as the Carrington
+Event of 1859 was named. The other guy was Richard Hodgson, and he got a raw deal, nothing
+named after him that I know of. That’s just my opinion.
+So, okay. What was this? What happened? A few Patrons had questions, including about the scale
+of it, through our modern eyes. Bonnie M Rutherford, Kelly Shaver, Carrington Event-enthusiast
+Tim, and Cassidy McKee. So, India told me a little more about this legendary space weather.
+India: Have you heard of the Carrington Event? You ever heard of that?
+Alie: Mm-mm.
+India: Okay, you should look that up too. This happened in the 1800s and it caused– Child, what they had
+back then? The little Morse code thing...?
+17
+Alie: Hmm... Telegrams?
+India: Yeah? We’ll go with that. It caused issues with that.
+Aside: So yes, this thing hit the Earth’s magnetosphere hard, possibly because one right before it
+cleared the way via its own solar wind but as a result, the telegraph operational systems were
+jacked. Sparks flew from some of the towers, some telegraph lines ran despite not being plugged
+into power at all. Now, the night sky all the way from the poles to the equator was streaked with
+auroras, these gauzy, pink to sometimes bloodred tendrils, described by one witness as “Crimson
+fleecy vapors.” These appeared at much lower latitudes than one would ever expect from a
+geomagnetic aura, kind of a late summer light show that stopped us earthlings in our tracks in
+1859 to stare up at the sky. And yeah, it also stopped some telegraph operators in their tracks
+because they were zapped into unconsciousness.
+Now, I was reading through this paper, “The Carrington Solar Flares of 1859: Consequences on
+Life” and I didn’t see any mention of deaths attributed to the Carrington event, but of course, they
+couldn’t have polled everyone. It did note, however, that “The US press of the time indicated some
+anecdotal incidences of abnormal behavior like an increase of public drunkenness in New Orleans.”
+Let ‘em party. It’s an event! It also continues that, the only statistical anomaly which could be found
+is an increase in the birth rate in Paris, nine months after the Carrington Event. Hey, is your
+romantic connection electric and full of sparks, or is the actual air? La Vie en Rose-colored Sky,
+perhaps. So now, when we refer to a Carrington-class event is like, “Whoo! That’s a big boy.”
+As for Richard Carrington himself, life did not pan out in his favor. I checked out this book, The Sun
+Kings: The Unexpected Tragedy of Richard Carrington and the Tale of How Modern Astronomy Bega:
+by Stuart Clark. It details that “Beneath the veneer of Carrington’s scientific success was the
+consuming rot of family duty.” He inherited his family’s brewery, which consumed most of his time,
+just slogging through it. And getting to his astronomy passion, which he was really good at, just
+became harder and harder and harder. He applied and was passed up for a job at Cambridge
+because of some office politics, and then his wife was found dead in her bed of a sedative overdose.
+He was kind of low-key blamed for it, like maybe he killed her, but people said he didn’t. And then
+he died alone in his mom’s house, locked in a room, shortly thereafter, of a sudden brain
+hemorrhage, though the room was littered with empty bottles of the same sedative that killed his
+wife, Rosa.
+He, in his will, gave two scientific societies $2,000 each, even though one didn’t even acknowledge
+him after his death. Can you believe that? Rude. He also asked to be buried atop his favorite
+observatory spot on a hill, but his mother was like, "Nah,” and just chose to bury him elsewhere.
+But above his grave is an inscription in Latin that says, “Thus do we reach the stars.” So, in death,
+he is remembered, and his life and the Carrington Event is said to have birthed this whole new
+interest in space weather. Also, really thinking about Richard Hodgson, the other amateur
+astronomer, I think he got off just fine.
+Now, what if you want to see an aurora without it being a gigantic unpredictable sunstorm? So, you
+Patrons has aurora-spotting questions, such as Shannon O’Grady, Aileen Lands, Matt Thompson,
+GhoulNextDoor, and first-time question-asker Ashlyn Noble and Michelle Cabrera who wrote in: A
+few years back, my husband and I drove to the northern-ass end of Finland to see the Aurora for
+my birthday. Only, just as we were getting packed and ready to go, hubby happened to check out
+solar activity for that year and month and found out that we were at the bottom (ass) end of the
+11-year cycle of solar activity. Boo! But we did manage to see some Northern Lights, and we
+thought they were amazing. But we were still a little bummed at the idea of minimal Northern
+Lights.
+18
+So, a little advice. Some say that the best place to post up is in the upper northern hemisphere at
+the time of the spring and the autumn equinoxes, with October giving a better shot at clearer skies.
+Now, we are at a solar maximum, all right, solar cycle 25. It peaks in July of 2025, so you have an
+even better chance of catching a glimpse of auroras which are solar flares and CMEs, those coronal
+mass ejections. Michael explains...
+Michael: So, what happens is there’s a ton of radiation that gets blasted off of there, I mean X-rays,
+ultraviolet radiation, if it’s really big you’ll get to see some visible light coming out of it and it’s just
+all this high energy radiation rushing toward the Earth. What can happen is it can A, change the
+ionosphere, so it can disrupt signals passing through the ionosphere. So, GPS satellite, it’s in orbit,
+its signal passes through the ionosphere and comes to your phone. When that ionosphere is
+disrupted, those signals can get moved around and your uncertainty on your GPS goes from a few
+feet to, you know, a half mile or something like that. You can get lost; it can say you’re someplace
+else. [“You lied to me.”] Yeah.
+The other thing is with coronal mass ejections, they’re sometimes related sometimes not. So, that’s
+when a whole lot of plasma comes off the Sun, this is a big burst of electrons, protons, and
+neutrons, all in this magnetic cloud. It comes racing off the Sun and that can actually impact
+satellites itself. So, the electronics on satellites, you know, you have a bunch of free electricity just
+floating around in magnetic fields, it’s not so great for sensitive electronics. Every time there’s a big
+solar storm, there’s usually a satellite that is tough coming back online again. So, that’s really the
+other effect. I don’t know if you could blame all of your problems on solar flares [Alie laughs] but I
+mean, it’s not a bad excuse. If you got lost on the way from the grocery store to your office or
+something like that, yeah, you could probably blame a solar flare.
+Alie: I’m just going to blame solar flares for everything if that’s okay. Thanks so much. [Michael chuckles]
+Aside: Many of you have solar storm anxiety and I’m looking at you Chrysalis Ashton, Edward
+Rice, Anna Thompson, Kendall M, Andie Townsend, Earl of Greymalkin, Aurora Cullen, first-time
+question-askers Pacheecha, Domino Cohn, and Claire Richie who asked: How scared should we be
+of solar flares? Eek. I asked India, she did not mince words.
+Alie: Okay, and now, what can we do to prepare if we know a solar storm is coming? Other than
+sunscreen.
+India: Yeah... Ummm...
+Alie: Anything we could do? Do you put a tinfoil hat? Does a tinfoil hat help?
+India: Well... [sighs then chuckles] We know it’s coming. We can build things so that it’s harder to
+penetrate through. Just like if a tornado is coming, what can we do to prepare? Get your ass in the
+basement and let it do its thing. You know, like, it’s just like any other type of weather, we can't
+stop it. We can't prevent it. We can just brace your fucking self. [laughs]
+Alie: Yeah. [laughs]
+India: I hate to sound so, you know...
+Alie: It’s the Sun! It’s huge!
+Aside: It’s huge, yellow, and bright. Wait, is it yellow? What am I talking about, I don’t know.
+Patrons Christine Pikstein, Iso Partee, Alyssa Gregory, Matt Hirschl, Marianne Breckenridge,
+Apollonia Piña, Megan Kelly, Charlie MacKenzie, and first-time question-askers Katie Munoz, Carrie
+Lincourt on behalf of Maeve, who is 10 – sorry about my swears, we do have classroom safe
+episodes called Smologies which are G-rated. But everyone wanted to know about colors. Allison 
+19
+Hatz, Owl, and Saira Manns wanted to know why the Sun wears sunglasses because in Saira’s
+words: Whose light is she shielding? We’ll never know about the fashion secrets but let’s ask
+Michael about colors on behalf of those other patrons.
+Michael: So, the Sun produces all wavelengths of light, so every single wavelength of light there is from
+gamma rays all the way down to radio waves, the Sun produces them all. The spectrum of light that
+it produces, so it produces all those different colors, if you look at the visible spectrum, the visible
+spectrum of light from the Sun peaks in sort of the pale yellow to yellow-green color. So, right
+there, that’s the peak of the spectrum. So, that is the color of light coming off the Sun in sort of a
+generic case. But if you go into space and take a picture like astronauts did when they were on the
+Moon, the Sun looks white, it is a white color and not yellow. The reason we see yellow is because
+of our atmosphere.
+Alie: Oh!
+Michael: Our atmosphere scatters blue light particularly well, it’s the reason why the sky looks blue,
+because it scatters blue light, and it scatters around and glows. So, when you take the Sun’s white
+light and scatter away some of the blue, the shorter wavelengths then it moves it from a white
+color into a little bit more yellow-orange color. So, that’s why we see the Sun as Sun-colored.
+Aside: Why is the Sun going night-night on the horizon so pretty? According to National Oceanic
+and Atmospheric Administration weather scientist sand sunset enthusiast, Stephen F. Corfidi in a
+2020 article titled simply “The Science of Sunsets,” so when the Sun is low, like at daybreak or dusk
+in the sky, the path of sunlight through the atmosphere is longer, giving more distance for the blue
+light end of the spectrum to scatter elsewhere. He writes “A beam of sunlight that at a given
+moment helps produce a red sunset over the Appalachians is at the same time contributing to a
+deep blue, late afternoon sky over the Rockies.”
+But LA sunsets are gorgeous because our air is full of soot and cancer, right? Not so! Big old
+flimflam. Sunsets are actually generally muted by large aerosol particles like pollution and the
+typical really beautiful sunsets usually involve clean air with low humidity, not a lot of moisture in
+the air, and the right kind of high clouds to catch the glow of the sunset and then reflect it
+downward. So, patrons Love2Sail, Neen, and Charlie MacKenzie, I hope that gives your sunsets
+even more context for you to stare at.
+Alie: Do you think that’s why we think it’s on fire? Because we think, “Oh, flames are kind of yellow.”
+Michael: Yeah, exactly. But the Sun is a whole lot hotter than flames so that’s where it’s a little bit
+misleading. But in simple terms, you look at a flame in a fire and you look at the Sun and you’re
+like, “Yeah, that’s about the same color.” So yeah.
+Aside: Okay, so that’s the story on the hue. What about heat? Mariia K, Rachel Fuller, Megan
+Morgan, Eric Larsonn, Michelle Parkin-Kelly, and Scarlet P, just so you have this blazing number
+burning a hole in your pocket, the Sun’s core is about 15 million degrees Celsius or about 27
+million in Fahrenheit, that’s the core. The middle-ish layer, the photosphere, is only about 10,000
+degrees Fahrenheit or 5,500 degrees Celsius and then as you go up, through the chromosphere it
+raises 500 degrees Celsius. But then, for thousands of miles above the surface of the Sun, the
+golden crown, the Sun’s corona, starts getting hotter again, up to 1 million degrees Celsius, or 1.8
+Fahrenheit. So, really hot, less hot, really hot again. So, that’s some serious incineration.
+Can we harness all that energy to our advantage other than just growing and sustaining every
+living thing on Earth? Which is what the Sun is already doing. Lexi Cable, Lynette Dávila, Simone
+Francoeur, and Figment wanted to know...
+20
+Alie: This next question is kind of a garbage question. Sweet Chili, first-time question-asker, wants to
+know: What if we built an enormous catapult on Earth and took all of our garbage and launched it
+into the Sun once a month? Could this save us from ourselves?
+Michael: [laughs] Well, a catapult would be hard. You might be able to do like a trebuchet. [Alie laughs] I
+don’t know. So, I understand the vibe of “Oh, we have a bunch of trash we’ve created, let’s just get
+rid of it.” But I think it would cause more harm than good because that trash has a ton of really
+useful resources in it. I mean, I know it doesn’t seem that way [Alie laughs] but those heavy metals
+that are leftover in your batteries and all those things are actually useful in terms of sustaining life
+on Earth. So, in the short term, yeah it could be helpful. It would not be a recipe for keeping
+humans going on Earth because eventually we’d get rid of all of the heavy metals on this planet,
+and we need some of them for technologies.
+Alie: Ahhh! God, that’s a good answer. Okay. That’s good to know. We’ll keep the garbage for now.
+Michael: I mean, we still have to do something with it.
+Aside: For more on how much garbage our little species makes and where it goes and what we
+should do with it and how much of your recycling is actually recycled, please get your heart broken
+and see our Discard Anthropology episode with sanitation expert and NYU professor, Dr. Robin
+Nagle. It is the opposite of garbage, it’s a wonderful episode. It’s also fascinating.
+Now, let’s talk about making some atomic and subatomic friends. So, Lisa Nijhuis, Nicky Gevirtz,
+Mike Campbell, Maureen Flood, Carlos Berrocal, Tigeryuri, and first-time question-askers TobiasG,
+Daniel Beck, and Dawnaechello, in Dawnaechello’s words, asked: If a person were to be thrown in
+the Sun, would their atoms become part of the Sun’s nuclear fusion reaction thereby contributing
+to the light which feeds our planet? But on a less visual note, first-time question-asker...
+Alie: Viktoriya Maslyak wanted to know: Where does the Sun get its energy from? And what’s in the
+center? Is it like a gobstopper? [“Fantastic invention. Revolutionized the industry. You can suck ‘em
+and suck ‘em and suck ‘em and they’ll never get any smaller. Never! At least I don’t think they do. Few
+more tests.”]
+Michael: I don’t think it’s like a gobstopper because it’s really, really hot, you know? [Alie laughs] We’re
+talking about millions of degrees, and I don’t think gobstoppers are quite that hot. But the core of
+the Sun is where you get fusion; you take hydrogen through a few different steps. You can fuse into
+helium and that process of taking hydrogens and forcing them together, that’s why you need to
+have extreme heat for fusion is that, how do you force these hydrogens together? You get them
+going really fast when it’s really hot and then they eventually will slam into each other, and you can
+get fusion. That process of fusion releases a tremendous amount of energy and it’s so much energy
+that it would actually blow itself apart if you just had the core of the Sun. So, if you just had the
+solar core by itself, there’s enough energy being produced that it would blow itself apart.
+However, there’s a whole lot more sun there than just the core. There are many other layers
+stacked on top and the gravity of all of those other layers, all that other hydrogen, helium pushing
+down on the core keeps it in balance between the energy being produced and pushing out from the
+interior of the Sun, and the gravity pushing it into the Sun to create this nice little stationary ball.
+So, that’s why the Sun is the size it is, it’s a balance between the gravity pulling all the material in
+and the energy being produced at the core pushing everything out.
+Aside: I asked India about this as well.
+Alie: I like to think of it like it’s solid in the middle and I have a feeling it is not.
+21
+India: Well, all of the chemicals that we know comes from stars. You know that, right? Like when stars
+explode, all of the hydrogen, helium, iron, all of that comes from an exploding star because what
+happens is, nuclear fusion takes place. Our Sun is mostly hydrogen and helium, and the speeds are
+so fast, they crash into each other, and it causes those heavier elements. So, there is a core of the
+Sun. Do we know if you can stand on that shit? Probably not. [Alie laughs] I don’t know if it’s
+actually solid but what I do know is that there are heavier elements inside that we can actually
+physically touch on Earth.
+Aside: All right, we need a whole episode on nuclear power but a quick aside. A few months ago,
+China announced some major success with a nuclear fusion reactor that acts as an artificial sun,
+and it smashes atoms together to form heavier ones which releases heat, like the Sun, that can be
+used as a power source. Currently, nuclear power plants use fission, they’re splitting atoms, but
+leaving this risk for radioactive waste that can harm us and the planet. Now, by contrast, fusionbased power appears to be much safer, cleaner, and using hydrogen from seawater as fuel could
+power humanity for millions of years, if we all don’t die first, not to be sad about it. Anyway,
+exciting stuff!
+Also, in a few days, I’m going to be in Texas, where a lot of things are gargantuan, except for the
+Sun in the sky this time of year, thankfully. But when it comes to size, what about our beloved Sun?
+Not that it matters, but patrons Matt Ceccato, Caro Young, GGKnows, Wendy Miller, Scarlet P,
+EmmaB, Ewan Monroe, Megan Morgan, Dave Cannon, and first-time question-asker Whitney
+Parson wanted to know how ours stacks up.
+Alie: And how big is our Sun compared to other suns? Do we have a tiny sun? Do we have a big sun?
+Michael: It’s pretty small. [Alie squeals] Yeah, we have... It’s called a dwarf star and the reason it’s a dwarf is
+just where it is on the evolutionary spectrum, evolutionary line as stars go. But it’s not that big,
+really. Stars get a whole lot bigger than the Sun. It’s a good thing that it’s not that big either. If we
+were around a more energetic star, it would be a whole lot harder to sustain life. The Sun is nicely,
+you know, a little bit active but it’s not crazy, it’s not going to irradiate the entire Earth every
+couple of years and kill all living things, [Alie laughs softly] which would be terrible. So, yeah.
+Aside: As it stands, our sun is about 33,000 times the mass of Earth and it makes up 99.86% of the
+mass of our Solar System. What if it were even bigger? What if we did supersize it? Patrons Okayest
+Mom’s Husband, Emily Staw-fur, Pavka34, Melissa Cool Last Name Ward, GGKnows, and first-time
+question-asker Colleen Chick all wanted to know about the Goldilocks Zone, a very lovely habitable
+range we happen to live in.
+Alie: If we had a bigger sun would we need to be further out to be in a Goldilocks zone?
+Michael: Absolutely, yeah, to be in that ideal zone. But it’s the unstableness of those magnetic fields so that if
+you have a bigger star, you’re going to have more energy produced in the star which means that all
+of the events, all of those things that happen on our Sun can be more energetic. Also, if you get
+small enough, you get these crazy convection currents where the material is pulled out from
+deeper into the star and pulled out to the surface which means you can get really crazy magnetic
+fields and they observe these in satellites, these crazy huge flares coming off of a star. Crazy huge, I
+mean as much energy coming off of a flare as the star is producing at that time, so like the star
+would get twice as bright in the sky kind of a thing.
+Alie: Wow!
+Michael: And that’s not really sustainable however far you are from it.
+22
+Alie: [laughs] Rachel Casha wants to know: When the Sun and Moon cross paths, it’s to kiss isn’t it? I bet
+it is.
+Michael: I mean, it could be a kiss, it could be a dance too. [Alie laughs] It’s more of a dance, more of a
+passing touch. They don’t really kiss as much as they just walk by each other slowly sort of maybe
+give each other the eye and then going. I don’t know if that’s flirty or because they don’t like each
+other, I’m not sure about that. But yeah, it’s less kissing and more just passing each other, like ships
+passing in the night maybe.
+Alie: We can't ship them quite yet. [Michael chuckles]
+The last questions I always ask are usually what’s your favorite and least favorite thing about what
+you do, but because there’s so much opportunity here, I’m going to ask you, some people want to
+know... Ken, Nat, first-time question-asker, and Megan Morgan wanted to know: What are the
+current mysteries about the Sun that heliologists and heliophysicists don’t understand? Is there a
+mystery that vexes you that we just don’t know yet?
+Michael: Yeah, there are several. The one that is most frequently held up, and then I’ll say what my favorite
+one is, the most frequent one is talking about the solar corona, what you’ll be able to see during a
+total solar eclipse. So, the solar corona is millions of degrees, the surface of the Sun is a few
+thousand degrees, five or six thousand degrees. Why? How? That’s weird. It’s like you’re sitting at a
+campfire and you’re walking backwards, and the air is getting hotter. That’s not how it’s normally
+supposed to work. So, there’s plenty of energy coming out from the Sun to heat the corona, that’s
+not the problem. The issue is, how do you get the energy from the surface of the Sun into the
+corona in such a way that you heat it up to millions of degrees?
+Aside: So yes, the outskirts of the Sun? Hotter than the surface! Bonkers. Michael loves this fact, as
+do I. A recent 2023 study titled, “Polarisation of decayless kink oscillations of solar coronal loops,”
+published in the journal Nature, opens with the declaration that, “Decayless kink oscillations of
+plasma loops in the solar corona may contain an answer to the enigmatic problem of solar and
+stellar coronal heating.” Huh?
+So, a Space.com article called, “Scientists may finally know why the Sun's outer atmosphere is so
+freakishly hot.” It tried to explain it to non-heliologists like us, saying that "The waves are
+relatively weak, but do not decay in strength over multiple cycles. As such, they may potentially
+supply a large amount of energy into the corona over time.” So, by not decaying, the heat and
+energy could be building up instead of cooling down, as expected. Folks are working on it, but now,
+every time the Sun hits your face on a warm, summer afternoon, just think about those hot, hot
+polarisation of decayless kink oscillations. Heliologists are.
+Michael: That’s an outstanding problem. We have ideas, there are no conclusive answers yet so it’s a weird
+one.
+My favorite is solar cycles. So, the Sun goes through 11-year cycles from quiet, where there aren’t
+very many flares or sunspots to very active, where there are lots of flares and sunspots, which is
+kind of where we are now, about every 11, 12 years. We don’t know why exactly. I mean, we have
+some thoughts, but we really don’t know why. Why is it 11 years? Why does it go through a cycle?
+What’s causing that to begin with? Is it that way forever or just right now? I mean, all those
+questions are still really outstanding on what is actually going on with the solar cycle. But it’s been
+observed by astronomers for 350 years now. So, it’s not like it’s going away.
+Alie: 11 years. I wonder what’s going on with that. I’m sure astrologers have a lot of thoughts about it.
+[Michael chuckles]
+23
+Aside: India mentioned solar cycles' ups and downs to me. The Sun has moods? India, explain.
+India: We do have solar minimum and solar maximum. We’re actually going into a maximum right now, I
+believe.
+Alie: What does that mean?
+India: When we have the most solar events, compared to the minimum.
+Alie: Oh no! Are you kidding me? We don’t need that!
+India: It happens every 11 years, roughly every 11 years is the solar cycle. So yeah, we...
+Alie: But it’s election year. [India laughs] It’s been four years of the pandemic, isn’t that enough? [laughs]
+We need an 11-year solar cycle?
+India: Yeah, and you know, it is a bipartisan effort. I will say that space weather is a bipartisan effort, but
+we are going into a maximum right now and we use time series analysis for, you know... Well, the
+solar cycles were figured out before we even involved computers.
+Aside: So, let’s turn the spotlight to what brightens the days of these two heliologists.
+Alie: What’s your favorite thing about your job or about being a scientist or being a heliologist? Is there
+anything you just love, that gets you excited?
+India: I genuinely love all of it. [Alie laughs] I love everything about being a scientist. I love being able to
+discover things... Like, survival analysis is a statistical method that has its origin in medicine, and
+it’s been used in finance and even been used in gambling and betting. It’s basically predicting time
+to an event. So, it started as time to death; you would have a collection of cancer patients and then
+you analyze their time to death. This technique has never been used in space weather to detect the
+time to detection of solar energetic particles. So, what I’ve found is that survival analysis gives us
+the same outcome as any other method that we’ve used, which means that it could be viable! [Alie
+gasps] That’s what’s exciting about science! [Alie laughs] It’s like, okay, it’s not technically
+something new that I discovered but this new technique can be used in this field. And that is what’s
+so much fun about being a scientist and then collaborating with other scientists.
+And then, of course, let’s talk about the obvious. Working with people at NASA! [Alie laughs] You
+know, actually going onto a NASA base, actually getting a NASA ID, and then being able to be a part
+of programs that people dream about, you know? [“You follow your dream.”]
+Aside: As for Michael’s favorite factoid, patrons Daniel White, James Nance, Tigeryuri, and Doug
+Stewart all asked...
+Alie: What is your favorite fact about the Sun? What is something that you just wish everyone knew?
+Michael: So, I think my favorite like “Gee whiz” about the Sun [Alie laughs] is the energy produced at the
+core, we talked about that earlier. So, energy is produced in fusion and then it starts moving
+outward from the core of the Sun. It takes maybe 10,000 years-ish to get from the core of the Sun
+to the surface of the Sun. And then it takes eight minutes from the surface of the Sun to our eyes.
+Alie: Wow.
+Michael: So, that little photon, you know, is born in a fusion, and then it keeps on getting scattered and
+reabsorbed and moved to other places because the Sun is dense and it's hot and it's a very chaotic
+environment where there's lots of mixing and there's lots of activity going on. So, it takes this
+random walk, this bouncing around for, you know, years and years and years all the way until it
+gets to the surface of the Sun. And then once it reaches that photosphere layer, the layer that we
+see when you're using your safety eclipse glasses – I'll get that in there, your solar viewing glasses
+24
+– that layer that you see, the photon goes pretty much on a direct path from there to your eye. So,
+when you see the Sun, that photon was formed thousands of years ago, and then in a matter of
+minutes lands in your eye, and then you interpret it as the Sun.
+And that little factoid is just, it's amazing because the Sun is just bright in the sky, and thinking
+about how all that light got to where you are just always, always amazes me. That's a fun one.
+Alie: I love that it has been waiting in the wings, sort of and it’s just like [makes quick ejection sound]
+batzyow! [ph] [both chuckle] Any last advice to people who are planning to see the eclipse? I
+definitely got my eclipse glasses early which is shocking that I did anything early, but I made sure
+to get them from a vetted source. I know that there are some fakes out there that can sizzle your
+retinas, apparently.
+Aside: Also, lest you think these warnings are like the “Don’t cross your eyes for a sec because
+they’ll stick like that” or “A watermelon seed can grow vines in your colon,” this one has merit. And
+it also has a name, solar retinopathy or eclipse retinopathy. It is a light-induced injury to your
+central retina, or macular tissue, which can lead to a permanent loss of central vision. For more on
+the parts of the eye, see the Ophthalmology episode with friend and eye expert Dr. Reid Wainess.
+It’s a good one.
+Now, you need solar viewing glasses at a rating, it’s called ISO 12312-2 to be exact, to be safe. And
+yes, there are fakes out there... Horrible! So, check places like the American Astronomical Society
+for trustable brands and links if you have time. Hang on if you’ve got good ones in case another
+eclipse rolls by your sky in a few years, or if a friend needs them on their travels. Because you want
+an eclipse to be life-changing in a good way, not in a way that results in a lot of ophthalmology
+appointments, even if your doctor is cool, like Reid.
+Alie: Any other advice?
+Michael: If you do have a chance to use some eclipse glasses, you shouldn’t be able to see anything through
+them except extremely bright lights like if you have a halogen bulb or the flash on a camera, you
+can see that in the eclipse glasses but nothing else. You should not be able to see any other light.
+Aside: So, during a partial eclipse or even during the stages of two or three, you can hold up a
+colander and you can see the dozens of little crescent-shaped shadows the sun casts. During this
+recent partial eclipse in LA last October, Jarrett and I were walking Gremmie and all the dappling of
+Sun through the tree leaves looked hook-shaped, it was so cool. You can also look for crafts using
+pinhole cameras. Even a disco ball will throw scattered light in the shape of the eclipsed Sun. Also,
+sunscreen and water. Can you do that? If you get heat stroke, there’s too much traffic for an
+ambulance. Now, what about psychological preparations?
+Michael: And then sort of on a personal note, I would say because there’s a high chance of clouds, it’s
+springtime in the northern hemisphere and there’s a chance it’s going to be cloudy, make the
+eclipse more of an event. Get to wherever you’re going early, bring a picnic, bring family or friends,
+go to a party, and do some fun activities. If it’s clouded out, it’s still going to get dark outside, you
+can still observe the world around you and how that changes when the Sun is obscured by the
+Moon and it gets dark around you. So, I hope that everybody sees a beautifully clear day that day
+but just to make sure that you don’t pin all of your hopes and wishes and dreams on those few
+fleeting moments of cloudless skies.
+Alie: [laughs] That’s good. That’s very, very good advice. Smart.
+Michael: I mean. There’s always Spain in 2026 and I hear that’s really nice.
+25
+Alie: There must be little pods of people who travel together like, "See ya in a couple years!” which is
+darling. That’s great.
+Michael: Oh yeah. Absolutely it’s sort of like, I don’t know, the Grateful Dead, there’s just following around
+the world or something like that.
+Aside: Umbraphiles assemble. Aspiring umbraphiles, start looking for hotels for like, 2038. Figure
+out a rental car now, let me tell ya.
+Alie: I’m sure you’re ticking down to the days when you travel, so you’ve got to start packing up your
+glasses.
+Michael: Oh yeah. I have my binoculars, the solar viewing binoculars, I have my glasses, I have all my NASA
+stickers to give away on the flight. [Alie laughs] I’m really getting excited for this. Also, NASA will be
+doing a live broadcast. Check out NASA.gov or go to NASA’s YouTube page and you can see a live
+broadcast of the eclipse. We’ll have telescopes across the path so if it’s cloudy where you are, you
+can still virtually visit Mazatlán, Mexico, or Torreón, Mexico where it’s likely to be clear. I will pop
+on and say hi in Dallas during the recording so you can come hear about the Dallas eclipse. And one
+of the anchor desks is in Kerrville, so you should go and check out the NASA events on the river
+walk in Kerrville.
+Alie: Yay! I’ll have to get myself a free sticker so long as I’m there. I hear they’re givin’ ‘em out. Nice! I’m
+so thankful that you’re able to spare some time and talk to me about this. I’m so excited about
+going. I’m so glad I’m going.
+Michael: I am really excited to get the word out to all of your listeners. I know it has been a buzz in my
+community for years so I’m always a little gob-struck when I hear somebody like, "Oh, is there an
+eclipse coming up?” [Alie laughs] Like, oh my god! Where have you been? But really, it’s a chance to
+celebrate the Sun, celebrate the Sun-Earth connection, so I’m just really excited for everyone here
+to take a moment on Monday, April 8th, and just experience that Sun-Earth connection for yourself.
+----------
+So, ask bright people dim questions, because the explanations are stellar, LMAO. Thank you so
+much to Almost Dr. India Jackson, Dr. Michael Kirk, and all the folks at NASA Goddard who made
+this possible, including Abbey and Sarah. For more on these two heliologists and heliophysicists,
+their info, and social media, those are all linked in the show notes. There’s also a link to NASA’s
+Total Solar Eclipse Live Broadcast for April 8th. I’ll be in Texas, and I’ll be back with a Field Trip of
+the whole situation. Am I going to be hitchhiking in the tumbleweed outer reaches of central Texas?
+We’ll see!
+For kid-friendly episodes of Ologies, check out Smologies, those are all linked at
+AlieWard.com/Smologies, they’re in the show notes. They are G-rated, shorter versions of Ologies,
+they’re classroom-safe. Also, look for an exciting announcement about a change we’re making on
+May 16th. Whee! We’re @Ologies on Twitter and Instagram, I’m @AlieWard on both. Join the
+Patreon at Patreon.com/Ologies, or get your Ologies summer merch at OlogiesMerch.com, linked in
+the show notes.
+Erin Talbert admins the Ologies Podcast Facebook group, Aveline Malek makes our professional
+transcripts, Kelly R Dwyer makes the website, Noel Dilworth is our scheduling and travel producer.
+Susan Hale is the managing director and also did extra research and a ton of fact-checking. Jake
+Chay-ffee [ph] is our assistant editor. Thank you, Jake and I’m sorry I said Cha-ffee [ph] last week, I
+am mad at myself. Welcome to the fam! Lead editor who also assisted with research is the warm
+and bright Mercedes Maitland of Maitland Audio. Nick Thorburn made the theme music.
+26
+And if you stick around until the end of the episode you know I tell you a secret from my soul. This
+week it’s that I have 100% been a doofus in the past and looked directly at the Sun during a partial
+eclipse by stacking like six pairs of sunglasses on top of each other and now I know, that’s not a
+good idea and I won’t do that again.
+Also, when I was a kid there was this incredibly, way spookier than it needed to be, Disney movie
+called The Watcher in Woods. And Erin Talbert, your Ologies Podcast Facebook group admin, who I
+have known since we were 4, we watched it together on several occasions and Bette Davis plays a
+very creepy woman who lives in a weird, old house and I guess also Kyle Richards – is it Kyle
+Richards or Kylie Richards? Anyway, is a real housewife of Beverly Hills but was a main character
+as a child actor, also spooky. An eclipse features heavily in the plot of Watcher in the Woods. And
+okay, first off, they don't make scary movies for kids like they used to because this one straight up
+scarred my soul, but also made me eerily fascinated with eclipses so I am 100% rewatching it
+before I head to Texas to see how it holds up. I watched the trailer like five minutes ago...
+Goosebumps. Scared, actually scared. Watcher in the Woods, going to rewatch it. Ernie, you with
+me? I hope so. Okay, be safe. Don’t stare at the Sun. I’m asking you that, I’m asking me that. Okay.
+Field Trip incoming. Berbye.
